@@ -4,6 +4,7 @@
 /*
  * This code has been written by Leto II Atreides on Youtube. All credits go to him.
  * I just typed the code from the video and uploaded it to GitHub.
+ * Se agrega punto
  */
 
 char** maze;
